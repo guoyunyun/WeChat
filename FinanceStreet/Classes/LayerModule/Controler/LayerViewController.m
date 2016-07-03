@@ -190,6 +190,8 @@
 
     //self.navigationController.navigationBar.hidden = YES;
     self.tabBarController.tabBar.hidden = YES;
+
+    
 }
 - (void)closeView
 {
